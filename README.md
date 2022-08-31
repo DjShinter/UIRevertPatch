@@ -75,7 +75,7 @@ This is the feature request for this mod. https://feedback.abinteractive.net/p/b
 
 
 
-To install the "**UIRevertPatch Mod**" place "**UIRevertPatch.dll**" inside your "Mods" folder located in **ChilloutVR** > **Mods**
+To install the "**UIRevertPatch Mod**" place "**UIRevertPatchMod.dll**" inside your "Mods" folder located in **ChilloutVR** > **Mods**
 
 
 
