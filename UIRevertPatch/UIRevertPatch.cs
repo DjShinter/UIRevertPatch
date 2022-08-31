@@ -11,6 +11,18 @@ using ABI_RC.Core.Networking.API;
 namespace UIRevertPatch
 
 {
+	/// <summary>
+	/// Sorry if my code looks horrible, I tried my best to get this to work, and there are serveral issues! If you want to fix this up please make a pull request
+	/// and I'll happily credit and include your pull request~
+	/// 
+	/// 
+	/// Thanks to LJ / ljoonal https://git.ljoonal.xyz/ that made me to get this to work
+	/// CVR Modding Corner: https://discord.gg/2WR6rGVzht
+	/// ChilloutVR Modding Group: https://discord.gg/dndGPM3bxu
+	/// 
+	/// 
+	/// </summary>
+	
 	public static class BuildInfo
 	{
 		public const string Name = "UIRevertPatchMod";
